@@ -1,10 +1,5 @@
-- :trident: Hi, I sou  Matheus Ribeiro
-- :desktop_computer: I’m interested in  programação
-- :computer: I’m currently learning criação do html 
-- :electron: I’m looking to collaborate com as aulas 
-- :calling: How to reach me  matheus.ribeiro.pires@escola.pr.gov.br
-
-<!---
-MatheusRibeiro0/MatheusRibeiro0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :trident:Oi, eu sou  Matheus Ribeiro
+- :desktop_computer:Eu estou interessado  programação
+- :computer:Eu estou aprendendo a criação do html 
+- :electron:Eu estou procurando colaborar com as aulas 
+- :calling:Meu contato é matheus.ribeiro.pires@escola.pr.gov.br
